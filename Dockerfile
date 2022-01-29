@@ -1,4 +1,4 @@
-from jketterl/codecserver:latest
+from jketterl/codecserver:0.1.0
 
 
 RUN apt-get update && \
